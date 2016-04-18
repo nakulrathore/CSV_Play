@@ -1,17 +1,4 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
-"""
-ZetCode Tkinter tutorial
-
-This program creates a Quit
-button. When we press the button,
-the application terminates. 
-
-Author: Jan Bodnar
-Last modified: November 2015
-Website: www.zetcode.com
-"""
 
 from Tkinter import Tk, Text, TOP, BOTH, X, N, LEFT
 from ttk import Frame, Label, Entry, Button
